@@ -3,3 +3,6 @@
   margin-left: auto;
   marginright: auto;
 }
+p.tweet {
+  font-family: 'Droid Sans', sans-serif;
+}
