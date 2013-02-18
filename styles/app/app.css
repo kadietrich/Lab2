@@ -1,9 +1,13 @@
+body{
+  background: #999999;
+}
 .container {
   width: 800px;
   margin-left: auto;
   margin-right: auto;
 }
 .tweet {
+  background: #ffffff;
   border: 4px solid blue;
   min-height: 50px;
 }
